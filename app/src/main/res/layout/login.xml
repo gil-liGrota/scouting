@@ -31,7 +31,7 @@
         android:textSize="25dp" />
 
     <Button
-        android:id="@+id/btnTester"
+        android:id="@+id/tester"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="left"
@@ -42,7 +42,7 @@
         android:layout_marginTop="20dp" />
 
     <Button
-        android:id="@+id/btnScout"
+        android:id="@+id/scouter"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
