@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.scouting"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.scouting"
